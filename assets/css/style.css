@@ -968,3 +968,7 @@ section {
   width: 100%;
   position: absolute;
 }
+
+.text-light {
+  text-align: center;
+}
